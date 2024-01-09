@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 prima modifica
 seconda modifica
-=======
-prima modifica
->>>>>>> 2df06ca0f4378e6b68e7995e3fe254b41960a3ca
